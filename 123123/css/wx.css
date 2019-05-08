@@ -1,0 +1,9 @@
+#flow_wx {
+	font-size: 0.8em;
+	z-index: 19999999999999;
+	position: absolute;
+}
+
+#flow_wx #wx_icon {
+	 bottom: 1%; width: 3em; height: 3em; right: 0.5em; position: fixed;
+}
